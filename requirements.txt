@@ -1,5 +1,0 @@
-aiogram==3.13.1
-aiohttp==3.10.10
-Pillow==10.4.0
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
